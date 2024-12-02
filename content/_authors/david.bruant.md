@@ -14,7 +14,7 @@ missions:
     status: independent
     employer: Scopyleft
   - start: 2023-12-20
-    end: 2024-12-31
+    end: 2025-06-30
     status: independent
 startups:
   - pitchou
